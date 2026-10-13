@@ -62,10 +62,25 @@ Lately that has meant on-chain ticketing on Solana, community software for resid
 
 ## Stack
 
-| | |
-|:--|:--|
-| **Languages** | TypeScript · Swift · Dart · Python · Ruby · SQL |
-| **Web** | React · Next.js · Vite |
-| **Mobile and desktop** | SwiftUI · Flutter · PySide6 |
-| **Backend and data** | Ruby on Rails · FastAPI · Supabase · PostgreSQL |
-| **Also** | Solana (Token-2022) · Apple MLX · Docker · GitHub Actions |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>TypeScript · Swift · Dart · Python · Ruby · SQL</td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>React · Next.js · Vite</td>
+  </tr>
+  <tr>
+    <td><b>Mobile and desktop</b></td>
+    <td>SwiftUI · Flutter · PySide6</td>
+  </tr>
+  <tr>
+    <td><b>Backend and data</b></td>
+    <td>Ruby on Rails · FastAPI · Supabase · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><b>Also</b></td>
+    <td>Solana (Token-2022) · Apple MLX · Docker · GitHub Actions</td>
+  </tr>
+</table>
