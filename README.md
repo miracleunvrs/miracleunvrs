@@ -4,7 +4,7 @@
 
 <br>
 
-Hi, I'm Ruslan. I build products end to end: the web app, the native iOS or Flutter client, and the API and database behind them.
+Hi, I'm miracle. I build products end to end: the web app, the native iOS or Flutter client, and the API and database behind them.
 
 Lately that has meant on-chain ticketing on Solana, community software for residential complexes, a no-code bot builder, and on-device ML for Apple Silicon.
 
